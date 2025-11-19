@@ -1,3 +1,4 @@
 # Learning about Version Control
 
-Solving merge conflicts takes conscious effort, but I can do it!
+I like how version control allows multiple collaborators on the same project.
+The most challenging thing about version control is resolving merge conflicts.
